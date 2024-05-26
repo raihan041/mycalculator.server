@@ -1,0 +1,735 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\db\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\db\\user.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\db\\payment.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\db\\payment.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|solutionrelative:mycalculator.service\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.service\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|solutionrelative:mycalculator.service\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|solutionrelative:mycalculator.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.api\\mycalculator.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0E6074EA-71D9-4519-BDB0-5DEC75AD9377}|MyCalculator.API\\MyCalculator.API.csproj|solutionrelative:mycalculator.api\\mycalculator.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|solutionrelative:mycalculator.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.data\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|solutionrelative:mycalculator.data\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|solutionrelative:mycalculator.data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.service\\dtos\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|solutionrelative:mycalculator.service\\dtos\\messagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8590EC-7501-491C-AAA7-41E88118626F}|MyCalculator.Common\\MyCalculator.Common.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.common\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8590EC-7501-491C-AAA7-41E88118626F}|MyCalculator.Common\\MyCalculator.Common.csproj|solutionrelative:mycalculator.common\\helpers\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|solutionrelative:mycalculator.data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.service\\dtos\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|solutionrelative:mycalculator.service\\dtos\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.service\\dtos\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7666FB4C-8396-4ECB-96F6-AEB7E7C0AD96}|MyCalculator.Service\\MyCalculator.Service.csproj|solutionrelative:mycalculator.service\\dtos\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.data\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|solutionrelative:mycalculator.data\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|d:\\projects\\tasks\\mycalculator\\mycalculator\\mycalculator.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C8E045-8C1C-4E5B-82EF-A7A19C032002}|MyCalculator.Data\\MyCalculator.Data.csproj|solutionrelative:mycalculator.data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\projects\\test_projects\\MyCalculator\\MyCalculator.Data\\Helpers\\FileHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 177,
+          "SelectedChildIndex": 91,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyCalculator.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyCalculator.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:17:09.306Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Service\\Services\\EmailService.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\Services\\EmailService.cs",
+              "RelativeToolTip": "MyCalculator.Service\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:59:37.136Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MyCalculator.API\\appsettings.json",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\appsettings.json",
+              "RelativeToolTip": "MyCalculator.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T02:57:01.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyCalculator.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyCalculator.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T09:56:21.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyCalculator.API",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\MyCalculator.API.csproj",
+              "RelativeDocumentMoniker": "MyCalculator.API\\MyCalculator.API.csproj",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\MyCalculator.API.csproj",
+              "RelativeToolTip": "MyCalculator.API\\MyCalculator.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T09:51:37.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5da8d69b-058a-4294-a87a-f4f7ae2983b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:31:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:32:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:33:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:34:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:35:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:36:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:37:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:38:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:45:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:46:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:47:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:48:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:49:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:50:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:51:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:52:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:53:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:54:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:55:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:56:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:57:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:58:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:59:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:60:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:61:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:62:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:64:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:65:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:66:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:67:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:69:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:70:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:72:0:{bdada759-5db7-402f-96e3-402b17c8c5b4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Data\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "MyCalculator.Data\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T06:57:18.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "MyCalculator.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "MyCalculator.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAywEAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:59:16.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Common\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Common\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Common\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "MyCalculator.Common\\Helpers\\FileHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:57:45.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageModel.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\DTOs\\MessageModel.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Service\\DTOs\\MessageModel.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\DTOs\\MessageModel.cs",
+              "RelativeToolTip": "MyCalculator.Service\\DTOs\\MessageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:31:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.json",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\DB\\User.json",
+              "RelativeDocumentMoniker": "MyCalculator.API\\DB\\User.json",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\DB\\User.json",
+              "RelativeToolTip": "MyCalculator.API\\DB\\User.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T09:16:35.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment.json",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\DB\\Payment.json",
+              "RelativeDocumentMoniker": "MyCalculator.API\\DB\\Payment.json",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\DB\\Payment.json",
+              "RelativeToolTip": "MyCalculator.API\\DB\\Payment.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T09:16:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Service\\Services\\IUserService.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\Services\\IUserService.cs",
+              "RelativeToolTip": "MyCalculator.Service\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:34:08.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\DTOs\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Service\\DTOs\\PaymentModel.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\DTOs\\PaymentModel.cs",
+              "RelativeToolTip": "MyCalculator.Service\\DTOs\\PaymentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:03:11.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\DTOs\\UserModel.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Service\\DTOs\\UserModel.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\DTOs\\UserModel.cs",
+              "RelativeToolTip": "MyCalculator.Service\\DTOs\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:59:31.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Service\\Services\\UserService.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Service\\Services\\UserService.cs",
+              "RelativeToolTip": "MyCalculator.Service\\Services\\UserService.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAUwHYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:56:43.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Program.cs",
+              "RelativeDocumentMoniker": "MyCalculator.API\\Program.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.API\\Program.cs",
+              "RelativeToolTip": "MyCalculator.API\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T06:45:29.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "D:\\projects\\test_projects\\MyCalculator\\MyCalculator.Data\\Helpers\\FileHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\test_projects\\MyCalculator\\MyCalculator.Data\\Helpers\\FileHelper.cs",
+              "ToolTip": "D:\\projects\\test_projects\\MyCalculator\\MyCalculator.Data\\Helpers\\FileHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\test_projects\\MyCalculator\\MyCalculator.Data\\Helpers\\FileHelper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:02:23.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Data\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "MyCalculator.Data\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAUwCkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:51:03.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "MyCalculator.Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwBgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:45:20.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Data\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "MyCalculator.Data\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:29:27.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Data\\Models\\Payment.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Models\\Payment.cs",
+              "RelativeToolTip": "MyCalculator.Data\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:41:40.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MyCalculator.Data\\Models\\User.cs",
+              "ToolTip": "D:\\projects\\tasks\\MyCalculator\\MyCalculator\\MyCalculator.Data\\Models\\User.cs",
+              "RelativeToolTip": "MyCalculator.Data\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:39:48.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
