@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Security.Cryptography;
 
-namespace MyCalculator.Common
+namespace MyCalculator.Common.Helpers
 {
     public class CryptographyHelper
     {
